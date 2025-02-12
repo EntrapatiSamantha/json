@@ -1347,7 +1347,7 @@
   {
     "id": 36,
     "name": "Butterscotch Cake",
-    "image": "butterscotchCake.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwW5F7yJ59nQpgJwFzCPKuumeRxpxp9NIMdA&s",
     "difficulty": "Easy",
     "caloriesPerServing": 400,
     "prepTimeMinutes": 20,
